@@ -1,6 +1,6 @@
 site_name: Resumee
 theme:
-  name: material
+  name: mkdocs-dracula-theme
   features:
     - content.code.copy
 nav:
