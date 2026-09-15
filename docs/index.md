@@ -75,6 +75,8 @@ IT system engineer and physicist with professional experience in high-performanc
 - Dissertation: *Particle Identification with the Endcap Disc DIRC at PANDA*
 - [Published dissertation](http://geb.uni-giessen.de/geb/volltexte/2018/13486/)
 
+![PhD Certificate](img/20180216_Promotionsurkunde.png)
+
 ### M.Sc. in Physics
 
 **University of Siegen** · July 2010–August 2011
