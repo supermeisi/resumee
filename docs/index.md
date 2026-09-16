@@ -3,7 +3,7 @@
 **IT System Engineer · Physicist · High-Performance Computing**
 
 Siegen, Germany  
-[mustafa_schmidt@gmx.de](mailto:mustafa_schmidt@gmx.de) · [ORCID: 0000-0002-4467-2461](https://orcid.org/0000-0002-4467-2461)
+[ORCID: 0000-0002-4467-2461](https://orcid.org/0000-0002-4467-2461)
 
 ## Profile
 
